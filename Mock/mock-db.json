@@ -1,0 +1,124 @@
+﻿{
+  "cities": [
+    {
+      "id": 41,
+      "name": "Kocaeli",
+      "districtList": [
+        {
+          "id": 0,
+          "name": "Golcuk",
+          "addressList": [
+            {
+              "id": 0,
+              "title": "Merhaba Lokantasi",
+              "lat": 41.0000,
+              "lon": 41.0000,
+              "description": "Cok lezzetli yemekleri var."
+            },
+            {
+              "id": 1,
+              "title": "Birinci Kasap",
+              "lat": 41.0001,
+              "lon": 41.0001,
+              "description": "Etler gercekten cok guzel."
+            },
+            {
+              "id": 2,
+              "title": "Hayri Bakkal",
+              "lat": 41.0002,
+              "lon": 41.0002,
+              "description": "Veresiye vardir."
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Izmit",
+          "addressList": [
+            {
+              "id": 3,
+              "title": "Ozgur Yemek",
+              "lat": 41.1003,
+              "lon": 41.1003,
+              "description": "Cok lezzetli yemekleri var."
+            },
+            {
+              "id": 4,
+              "title": "Karadeniz Pide Salonu",
+              "lat": 41.1004,
+              "lon": 41.1004,
+              "description": "Bir dilim asla yetmez"
+            },
+            {
+              "id": 5,
+              "title": "Filiz Ablanin Yeri",
+              "lat": 41.2005,
+              "lon": 41.2005,
+              "description": "Bizim fikrimiz. Sizin yuvanız"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Istanbul",
+      "districtList": [
+        {
+          "id": 2,
+          "name": "Tuzla",
+          "addressList": [
+            {
+              "id": 6,
+              "title": "Tuzla Lokantasi",
+              "lat": 34.0000,
+              "lon": 34.0000,
+              "description": "Burada olmayı seviyorum"
+            },
+            {
+              "id": 7,
+              "title": "Dostlar Okuma Evi",
+              "lat": 34.0001,
+              "lon": 34.0001,
+              "description": "Bize uyar"
+            },
+            {
+              "id": 8,
+              "title": "Hayal Diyari",
+              "lat": 34.0002,
+              "lon": 34.0002,
+              "description": "Çocuğun olduğu her yerde"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Pendik",
+          "addressList": [
+            {
+              "id": 9,
+              "title": "Mem Dershanesi",
+              "lat": 34.1003,
+              "lon": 34.1003,
+              "description": "Doğru tercih"
+            },
+            {
+              "id": 10,
+              "title": "Zalimin Cay Ocagi",
+              "lat": 34.1004,
+              "lon": 34.1004,
+              "description": "En güzel çay, doğuş çay"
+            },
+            {
+              "id": 11,
+              "title": " Arko Berber",
+              "lat": 34.2005,
+              "lon": 34.2005,
+              "description": "Erkek adama hikâye gerisi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
